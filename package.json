@@ -1,0 +1,38 @@
+{
+  "name": "nextjs-plesk-fix",
+  "version": "1.0.0",
+  "description": "A CLI tool to fix Next.js deployment issues on Plesk servers",
+  "main": "index.js",
+  "bin": {
+    "nextjs-plesk-fix": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nextjs",
+    "plesk",
+    "deployment",
+    "fix",
+    "cli"
+  ],
+  "author": "ahgsql",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahgsql/nextjs-plesk-fix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahgsql/nextjs-plesk-fix/issues"
+  },
+  "homepage": "https://github.com/ahgsql/nextjs-plesk-fix#readme",
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "contributors": [
+    {
+      "name": "ahgsql",
+      "url": "https://github.com/ahgsql"
+    }
+  ]
+}
